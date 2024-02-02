@@ -13,7 +13,7 @@ Helper for Google Adsense code
 Include the gem in your Gemfile:
 
 ```ruby
-gem 'adsense_helper'
+gem 'adsense_helper' git: "https://github.com/aliumairdev/adsense_helper.git"
 ```
 
 ## Usage
