@@ -6,7 +6,7 @@ Helper for Google Adsense code
 
 ## Requirements
 
-* Ruby ~> 2.0
+- Ruby ~> 2.0
 
 ## Installation
 
@@ -19,12 +19,16 @@ gem 'adsense_helper'
 ## Usage
 
 ```ruby
-adsense_tag(client: 0000000000000000, slot: 1111111111, dimension: '336x280')
+adsense_tag(client: 0000000000000000, slot: 1111111111, dimension: '336x280', format: 'auto', responsive: true,)
+```
+
+```ruby
+
 ```
 
 ## Sponsors
 
-* [BaiLu ShuYuan](https://bailushuyuan.org)
+- [BaiLu ShuYuan](https://bailushuyuan.org)
 
 ## License
 
