@@ -1,3 +1,3 @@
-module AdsenseHelper #:nodoc:
-  VERSION = '0.1.0'
+module AdsenseHelper # :nodoc:
+  VERSION = "0.1.1"
 end
